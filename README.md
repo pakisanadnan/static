@@ -1,0 +1,2 @@
+# static
+new app
